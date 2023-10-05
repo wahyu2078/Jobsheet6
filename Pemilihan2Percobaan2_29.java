@@ -23,3 +23,5 @@ public class Pemilihan2Percobaan2_29 {
             System.out.println("Bukan Segitiga");
     }
 }
+
+// oke
